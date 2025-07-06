@@ -20,8 +20,8 @@ Clear every enemy in a level to unlock the next stage — quick reflexes and pre
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-project-name.git
-   cd your-project-name
+   git clone [https://github.com/yourusername/your-project-name.git](https://github.com/Essam-Khawaja/dystopia)
+   cd Dystopia   // Move into repo
    ```
    
 2. **Install pygame**
